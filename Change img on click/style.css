@@ -1,0 +1,23 @@
+#container{
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.bulb-off{
+    height: 700px;
+    width: 500px;
+    background: url('lightbulb-off.png') no-repeat;
+    margin: auto;
+
+}
+
+
+.bulb-on{
+    height: 700px;
+    width: 500px;
+    background: url('lightbulb-on.png') no-repeat;
+    margin: auto;
+
+}
