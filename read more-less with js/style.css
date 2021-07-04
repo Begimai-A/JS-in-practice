@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(216, 251, 250);
+    padding: 0;
+    margin: 25px;
+    margin-top: 50px;
+}
+
+p{
+    color:rgb(8, 71, 71);
+    font-size: 25px;
+    font-family: 'bitter' serif;
+    line-height: 35px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color: teal;
+    font-size: 50px;
+}
+
+#more{
+    display: none;
+}
+button{
+    background-color: rgb(37, 171, 171);
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 0 8px 0 8px;
+    letter-spacing: 1px;
+    
+}
+button:hover{
+    opacity: 0.7;
+}
+#dots{
+    color:teal
+}
